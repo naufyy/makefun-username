@@ -3,6 +3,10 @@
 Criterion 1 of the judge brief says any word that is not a genuine make.fun
 handle loses to every genuine handle. So the only entry that can win is the
 entrant's own handle, sent as one word: naufyy.
+
+The joke is its plainness. Judges read thousands of elaborate usernames every
+day; against that pile, an entrant who simply submits their own real handle,
+with no wordplay and no decoration, stands out by doing the least.
 """
 from pathlib import Path
 

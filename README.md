@@ -6,6 +6,8 @@
 
 The Handle in One Word: a tiny Python program that writes the entrant's own make.fun handle, `naufyy`, to `/output/entry.txt`. The judge brief ranks "a genuine make.fun handle" above everything else, so any invented word would lose to every real handle in the field. That makes the handle itself the only entry worth sending.
 
+The humor is the plainness: among thousands of elaborate usernames, the entrant just hands over their own real handle, unadorned.
+
 ## Run it
 
 ```sh
