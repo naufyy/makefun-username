@@ -7,6 +7,9 @@ entrant's own handle, sent as one word: naufyy.
 The joke is its plainness. Judges read thousands of elaborate usernames every
 day; against that pile, an entrant who simply submits their own real handle,
 with no wordplay and no decoration, stands out by doing the least.
+
+After a judge has scrolled through thousands of ornate names, meeting a bare,
+real handle feels like a breath of fresh air, and that contrast is the effect.
 """
 from pathlib import Path
 
