@@ -8,6 +8,8 @@ The Handle in One Word: a tiny Python program that writes the entrant's own make
 
 The humor is the plainness: among thousands of elaborate usernames, the entrant just hands over their own real handle, unadorned.
 
+Compared with the other candidates (an ornate coinage, or a sarcastic word), those only compete on cleverness, where the field is crowded, and neither is a genuine handle. The real handle is the only entry that satisfies the top criterion and is also funny, because it is the one word that doesn't try to be funny.
+
 ## Run it
 
 ```sh
